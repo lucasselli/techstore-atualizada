@@ -5,6 +5,8 @@ COLLATE utf8mb4_unicode_ci;
 
 USE techstore;
 
+//techstore
+
 CREATE TABLE categoria (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(80) NOT NULL,
